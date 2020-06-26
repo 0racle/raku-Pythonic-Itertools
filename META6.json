@@ -1,0 +1,13 @@
+{
+   "name" : "Pythonic::Itertools",
+   "version" : "0.0.1",
+   "description" : "Itertools functions",
+   "perl" : "6.c",
+   "authors" : [ "Joshua Yeshouroun" ],
+   "provides" : {
+      "Pythonic::Itertools" : "lib/Pythonic/Itertools.rakumod"
+   },
+   "depends" : [ ],
+   "source-url" : "git://github.com/0racle/raku-Pythonic-Itertools.git",
+   "license"    : "Artistic-2.0"
+}
